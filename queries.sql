@@ -1,0 +1,1 @@
+INTO items (title) VALUES ('Buy milk'), ('Finish homework');
